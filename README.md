@@ -8,6 +8,7 @@
 ### To set up programm you should start your virtual env and run 'pip install -r requirements.txt' command in terminal
 ### All requirements should be installed and application must be ready to use
 
+### You should run main.py file to create database. After this step you can run functions.py in order to access application functions.
 
 ### As you run the app you will face simple context menu.
 ### You should enter number wheter you want to register or login. On the very first start you should register
